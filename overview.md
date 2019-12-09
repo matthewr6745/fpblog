@@ -1,0 +1,3 @@
+The “Freedom Project” for SEP10 is all about explain what the freedom project is. Don’t remember?
+Reread the description of it on the SEP Site.. The purpose of this blog is to(what is it that you are using the blog for. Remember - look at the Freedom Project description)
+For my project, I am making a website about ___ toxicology___. This blog will walk through my process of independently studying ___ of toxicology and how drugs effect the body and mind___ and making the website.
